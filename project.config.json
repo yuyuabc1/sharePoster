@@ -1,0 +1,11 @@
+{
+	"miniprogramRoot": "./miniprogram",
+	"pluginRoot": "./plugin",
+	"compileType": "plugin",
+	"setting": {
+		"newFeature": true
+	},
+	"appid": "wx79646b53cd5edda2",
+	"projectname": "sharePoster",
+	"condition": {}
+}

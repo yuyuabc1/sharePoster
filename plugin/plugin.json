@@ -1,0 +1,6 @@
+{
+  "publicComponents": {
+    "painter": "components/painter/painter"
+  },
+  "main": "index.js"
+}

@@ -1,0 +1,4 @@
+<!--plugin/components/painter/painter.wxml-->
+<view class="box">
+  <canvas canvas-id="k-canvas" class="canvasStyle" style="{{painterStyle}}{{customStyle}}"></canvas>
+</view>
